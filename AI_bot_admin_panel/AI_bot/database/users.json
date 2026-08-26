@@ -1,0 +1,47 @@
+[
+  {
+    "userId": 1,
+    "telegramId": 7757553447,
+    "firstName": "Умар",
+    "username": "choryv_0_7",
+    "coins": 0,
+    "answeredQuestions": [],
+    "subscription": {
+      "active": false,
+      "type": null,
+      "expiresAt": null
+    },
+    "studyDays": null,
+    "subscriptionStartDate": null,
+    "warnings": 0,
+    "blocked": false
+  },
+  {
+    "userId": 2,
+    "telegramId": 8117849631,
+    "firstName": "Kamina ❕",
+    "username": "username yo'q",
+    "coins": 9,
+    "answeredQuestions": [
+      6,
+      5,
+      3,
+      12,
+      1,
+      4
+    ],
+    "subscription": {
+      "active": true,
+      "type": "threeDay",
+      "expiresAt": "2026-08-13T08:00:58.246Z"
+    },
+    "studyDays": "mon_wed_fri",
+    "subscriptionStartDate": "2026-08-10T08:00:58.246Z",
+    "warnings": 0,
+    "blocked": false,
+    "dailyQuestions": {
+      "date": "2026-08-10",
+      "count": 6
+    }
+  }
+]
